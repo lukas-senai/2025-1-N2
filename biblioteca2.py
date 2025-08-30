@@ -92,3 +92,5 @@ while escolha != 6:
         print("Volte sempre! 👋")
     else:
         print("Escolha inválida! 🚫")
+
+# teste alteração
